@@ -16,7 +16,7 @@ DB_DATABASE=seubanco
 DB_USERNAME=usuario
 DB_PASSWORD=senha
 
-Agora vamos rodar a seed para criar a tabela de task, com o terminal aberto na pasta do projeto é só rodar o comando php artisan db:seed
+Agora vamos rodar a migrate para criar a tabela de task, com o terminal aberto na pasta do projeto é só rodar o comando php artisan migrate
 
 Agora vamos rodar o servidor para levantar a api, rode o camando php artisan server.
 
